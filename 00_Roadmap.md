@@ -3,11 +3,11 @@
 ## Storage
 
 - Azure Storage
-- Azure Datalake storage
 - Relational Database on Azure
     - Azure SQL DB
 	- SQL Managed Instance
     - SQL Server on VM
+- No-SQL Databases
 
 ## Sources
 

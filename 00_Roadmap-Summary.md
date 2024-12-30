@@ -18,6 +18,9 @@
 	- Excel
 	- Avro
 	- Parquet
+    - ORC
+    - XML
+    - JSON
 - IoT/Steaming Devices
 	
 ## Big Data processing/Distributed Computing

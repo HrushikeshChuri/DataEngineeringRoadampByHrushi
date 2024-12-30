@@ -11,63 +11,63 @@
 
 ## Sources
 
-	- ODBC/JDBC
-	- API
-	- Files
-		- csv
-		- Excel
-		- Avro
-		- Parquet
-	- IoT/Steaming Devices
+- ODBC/JDBC
+- API
+- Files
+	- csv
+	- Excel
+	- Avro
+	- Parquet
+- IoT/Steaming Devices
 	
 ## Big Data processing/Distributed Computing
 
-	- Apache Spark
-	- Open Table Formats
-        - Delta tables
-        - Iceberg
-        - Hudi
-	- Databricks
+- Apache Spark
+- Open Table Formats
+    - Delta tables
+    - Iceberg
+    - Hudi
+- Databricks
 	
 ## Programming Languages
 
-    - Python
+- Python
     
 ## Transformations
 
-	- SQL
-	- Pyspark
-	- Data Build Tool (DBT)
+- SQL
+- Pyspark
+- Data Build Tool (DBT)
 	
 ## Orchastration
 
-    - Azure Data Factory
-	- Apache Airflow
+- Azure Data Factory
+- Apache Airflow
 	
 ## Streaming
 
-	- Azure Event Hub
-	- Azure Stream Analytics
-    - Kafka
-	- Azure Functions and Logic Apps
+- Azure Event Hub
+- Azure Stream Analytics
+- Kafka
+- Azure Functions and Logic Apps
 	
 ## Architecture
 
-	- Data warehousing and Dimensional modeling
-	- Data lake
-	- Lakehouse
-	- Data leadership
-	- CAP Theorem
-	- Data Engineering
+- Data warehousing and Dimensional modeling
+- Data lake
+- Lakehouse
+- Data leadership
+- CAP Theorem
+- Data Engineering
 	
 ## Reporting
 
-	- Power BI
+- Power BI
 	
 ## CI/CD and containerization
 
-	- Azure DevOps
-	- Docker
+- Azure DevOps
+- Docker
 	
 ## Books
 	
